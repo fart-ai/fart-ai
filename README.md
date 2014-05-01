@@ -1,5 +1,7 @@
 # Fart AI
 
+Latest stable version: V 1.2.1
+
 This is the AI core for the chatbot on YouTube: PressFartTocontinue.
 
 Included is the phrase database, and the source code that loads the phrases
